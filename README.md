@@ -1,5 +1,5 @@
 # Projeto-Nutrição-JS
-Projeto final do curso do Aluro usando JavaScript.
+Projeto final do curso do Alura usando JavaScript.
 
 ## Foi utilizado neste projeto:
 - Eventos e criação de elementos;
